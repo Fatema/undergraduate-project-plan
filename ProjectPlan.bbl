@@ -1,0 +1,323 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{anyt/global/}
+    \entry{MichaelDepreliStudy2012}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a2fbaf4b63b1a6d93cd3f8299c7c4ce1}{%
+           family={Depreli},
+           family_i={D\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fbaf4b63b1a6d93cd3f8299c7c4ce1}
+      \strng{fullhash}{a2fbaf4b63b1a6d93cd3f8299c7c4ce1}
+      \field{labelalpha}{Dep12}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.extremegammon.com/studies.aspx\#D2012}, accessed: 20/09/2018}
+      \field{title}{Bot Comparison Final Table}
+      \field{year}{2012}
+    \endentry
+    \entry{snowie}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9532c899cb9f82076cd4d0db634ea6eb}{%
+           family={Egger},
+           family_i={E\bibinitperiod},
+           given={Olivier},
+           given_i={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9532c899cb9f82076cd4d0db634ea6eb}
+      \strng{fullhash}{9532c899cb9f82076cd4d0db634ea6eb}
+      \field{labelalpha}{Egg17}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.bgsnowie.com/about/what-is-backgammon-snowie.dhtml},accessed: 28/09/2018}
+      \field{title}{Backgammon Snowie}
+      \field{year}{2017}
+      \keyw{latex,gnu,backgammon}
+    \endentry
+    \entry{exg}{online}{}
+      \name{author}{1}{}{%
+        {{hash=33a24a52c357c94953f60e5a473e4b38}{%
+           family={GameSite},
+           family_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{33a24a52c357c94953f60e5a473e4b38}
+      \strng{fullhash}{33a24a52c357c94953f60e5a473e4b38}
+      \field{labelalpha}{Gam17}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.extremegammon.com/default.aspx},accessed: 26/09/2018}
+      \field{title}{eXtreme Gammon}
+      \field{year}{2017}
+      \keyw{latex,gnu,backgammon}
+    \endentry
+    \entry{DBLP:conf/evoW/PapahristouR11}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2c9adcabcf85b38783906814eb4c21f8}{%
+           family={Papahristou},
+           family_i={P\bibinitperiod},
+           given={Nikolaos},
+           given_i={N\bibinitperiod}}}%
+        {{hash=87ff9f2473fe8a86049d9db256573ad3}{%
+           family={Refanidis},
+           family_i={R\bibinitperiod},
+           given={Ioannis},
+           given_i={I\bibinitperiod}}}%
+      }
+      \name{editor}{12}{}{%
+        {{hash=f4113e4012c2508e350e42b8ee5ea888}{%
+           family={Chio},
+           family_i={C\bibinitperiod},
+           given={Cecilia\bibnamedelima Di},
+           given_i={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4fd586c44a1bc3079a93efdbe530b22c}{%
+           family={Cagnoni},
+           family_i={C\bibinitperiod},
+           given={Stefano},
+           given_i={S\bibinitperiod}}}%
+        {{hash=583f6e5b3c448041b353b3b3bcc0576f}{%
+           family={Cotta},
+           family_i={C\bibinitperiod},
+           given={Carlos},
+           given_i={C\bibinitperiod}}}%
+        {{hash=212df5212b5190e3b4a227f8241d0092}{%
+           family={Ebner},
+           family_i={E\bibinitperiod},
+           given={Marc},
+           given_i={M\bibinitperiod}}}%
+        {{hash=6e5c9bfe507d5e59050bdb32622ad05f}{%
+           family={Ek\'{a}rt},
+           family_i={E\bibinitperiod},
+           given={Anik\'{o}},
+           given_i={A\bibinitperiod}}}%
+        {{hash=271be04491459727a6ebb9a73a35777a}{%
+           family={Esparcia{-}Alc\'{a}zar},
+           family_i={E\bibinitperiod},
+           given={Anna},
+           given_i={A\bibinitperiod}}}%
+        {{hash=421ef84d3270507dcb24f35c1619f2ba}{%
+           family={Guerv\'{o}s},
+           family_i={G\bibinitperiod},
+           given={Juan\bibnamedelimb Juli\'{a}n\bibnamedelima Merelo},
+           given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e0da1965cc64f17278cb41e38d9692e9}{%
+           family={Neri},
+           family_i={N\bibinitperiod},
+           given={Ferrante},
+           given_i={F\bibinitperiod}}}%
+        {{hash=9455ae7b71c029beb38002baa6784bc9}{%
+           family={Preuss},
+           family_i={P\bibinitperiod},
+           given={Mike},
+           given_i={M\bibinitperiod}}}%
+        {{hash=b2e3cc4ba1d9d9416e868f203083df2e}{%
+           family={Richter},
+           family_i={R\bibinitperiod},
+           given={Hendrik},
+           given_i={H\bibinitperiod}}}%
+        {{hash=cbd110b21df9b90cd72ce148aa04de7f}{%
+           family={Togelius},
+           family_i={T\bibinitperiod},
+           given={Julian},
+           given_i={J\bibinitperiod}}}%
+        {{hash=5240cb608961fd79fbb43f35a1f07fd2}{%
+           family={Yannakakis},
+           family_i={Y\bibinitperiod},
+           given={Georgios\bibnamedelima N.},
+           given_i={G\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d037590964dbc3f688a9cd09a53c2ac8}
+      \strng{fullhash}{d037590964dbc3f688a9cd09a53c2ac8}
+      \field{labelalpha}{PR11}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Applications of Evolutionary Computation - EvoApplications 2011: EvoCOMPLEX, EvoGAMES, EvoIASP, EvoINTELLIGENCE, EvoNUM, and EvoSTOC, Torino, Italy, April 27-29, 2011, Proceedings, Part {I}}
+      \field{isbn}{978-3-642-20524-8}
+      \field{series}{Lecture Notes in Computer Science}
+      \field{title}{Training Neural Networks to Play Backgammon Variants Using Reinforcement Learning}
+      \field{volume}{6624}
+      \field{year}{2011}
+      \field{pages}{113\bibrangedash 122}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-642-20525-5\_12
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-20525-5%5C_12
+      \endverb
+    \endentry
+    \entry{DBLP:conf/ifip12/PapahristouR12}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2c9adcabcf85b38783906814eb4c21f8}{%
+           family={Papahristou},
+           family_i={P\bibinitperiod},
+           given={Nikolaos},
+           given_i={N\bibinitperiod}}}%
+        {{hash=87ff9f2473fe8a86049d9db256573ad3}{%
+           family={Refanidis},
+           family_i={R\bibinitperiod},
+           given={Ioannis},
+           given_i={I\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=87f0184599a4bf011afb2dfd6aefc0bf}{%
+           family={Iliadis},
+           family_i={I\bibinitperiod},
+           given={Lazaros\bibnamedelima S.},
+           given_i={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=1e8c0f25f4b16ae4e93267e21adf8b6d}{%
+           family={Maglogiannis},
+           family_i={M\bibinitperiod},
+           given={Ilias},
+           given_i={I\bibinitperiod}}}%
+        {{hash=f716022c871ed6b58e71df6a9532d36a}{%
+           family={Papadopoulos},
+           family_i={P\bibinitperiod},
+           given={Harris},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d037590964dbc3f688a9cd09a53c2ac8}
+      \strng{fullhash}{d037590964dbc3f688a9cd09a53c2ac8}
+      \field{labelalpha}{PR12}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Artificial Intelligence Applications and Innovations - 8th {IFIP} {WG} 12.5 International Conference, {AIAI} 2012, Halkidiki, Greece, September 27-30, 2012, Proceedings, Part {I}}
+      \field{isbn}{978-3-642-33408-5}
+      \field{series}{{IFIP} Advances in Information and Communication Technology}
+      \field{title}{On the Design and Training of Bots to Play Backgammon Variants}
+      \field{volume}{381}
+      \field{year}{2012}
+      \field{pages}{78\bibrangedash 87}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/978-3-642-33409-2\_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-33409-2%5C_9
+      \endverb
+    \endentry
+    \entry{gnubg}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fc8ae4b0efaaadb7c1a380b7a6c4226b}{%
+           family={Silver},
+           family_i={S\bibinitperiod},
+           given={Albert},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc8ae4b0efaaadb7c1a380b7a6c4226b}
+      \strng{fullhash}{fc8ae4b0efaaadb7c1a380b7a6c4226b}
+      \field{labelalpha}{Sil06}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.bkgm.com/gnu/AllAboutGNU.html},accessed: 24/09/2018}
+      \field{title}{All About GNU}
+      \field{year}{2006}
+      \keyw{latex,gnu,backgammon}
+    \endentry
+    \entry{DBLP:journals/ai/Tesauro02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=778694b9dda05914a1456df10efb774c}{%
+           family={Tesauro},
+           family_i={T\bibinitperiod},
+           given={Gerald},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{778694b9dda05914a1456df10efb774c}
+      \strng{fullhash}{778694b9dda05914a1456df10efb774c}
+      \field{labelalpha}{Tes02}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Artif. Intell.}
+      \field{number}{1-2}
+      \field{title}{Programming backgammon using self-teaching neural nets}
+      \field{volume}{134}
+      \field{year}{2002}
+      \field{pages}{181\bibrangedash 199}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/S0004-3702(01)00110-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/S0004-3702(01)00110-2
+      \endverb
+    \endentry
+    \entry{DBLP:conf/icml/Tesauro92}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=778694b9dda05914a1456df10efb774c}{%
+           family={Tesauro},
+           family_i={T\bibinitperiod},
+           given={Gerald},
+           given_i={G\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=36abc9fadcc307b9c252889e48ffb5e2}{%
+           family={Sleeman},
+           family_i={S\bibinitperiod},
+           given={Derek\bibnamedelima H.},
+           given_i={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5601ffd2d2a3827018fff740d8591d36}{%
+           family={Edwards},
+           family_i={E\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan Kaufmann}%
+      }
+      \strng{namehash}{778694b9dda05914a1456df10efb774c}
+      \strng{fullhash}{778694b9dda05914a1456df10efb774c}
+      \field{labelalpha}{Tes92}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Ninth International Workshop on Machine Learning {(ML} 1992), Aberdeen, Scotland, UK, July 1-3, 1992}
+      \field{isbn}{1-55860-247-X}
+      \field{title}{Temporal Difference Learning of Backgammon Strategy}
+      \field{year}{1992}
+      \field{pages}{451\bibrangedash 457}
+      \range{pages}{7}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

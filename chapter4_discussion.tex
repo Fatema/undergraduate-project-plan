@@ -1,0 +1,25 @@
+\chapter{Objectives Discussion}
+\begin{itemize}
+\item minimum objectives
+\begin{enumerate}
+\item Design and build a neural network architecture that will incorporated the race game strategy and a general neural network for all other positions. Define the raw and expert input features and output features; the input expert features will be based on the strategies of each neural network. Let the network train against itself (self-learning) for 100,000 games then run 500 test games of the current network against its previous weights; this will help make sure that the network is improving over time. Continue training the network and running tests until the network has been trained for 1,000,000 games.  
+\item Build upon the basic player design and include another neural network for the Priming game and include the appropriate expert input features. Run the same training and testing cycle as the basic player. This player will be referred to as player-P.
+\item Build upon the basic player design and include another neural network for the Back game and include the appropriate expert input features. Run the same training and testing cycle as the basic player. This player will be referred to as player-B.
+\item Build upon the basic player design and include another neural network for each the Priming game and the Back game and include the appropriate expert input features for each. Run the same training and testing cycle as the basic player. This player will be referred to as player-PB.
+\item Run 1000 test games for each of the 3 players against the basic player and record the results. Create a graph for the results. The player with the highest equity will be the best player.
+\end{enumerate}
+
+\item intermediate objectives
+\begin{enumerate}
+\item Increase the size of the hidden network for the basic player. Retrain the basic player with the updated NN architecture.
+\item Run 1000 test games for the best player from the previous evaluation against the new basic player and record the results. Create a graph for the results.
+\end{enumerate}
+
+\item advanced objectives
+\begin{enumerate}
+\item Redesign all of the previous players to include doubling cube in their evaluation. Retrain all the players and test them. Evaluations of the performance will be similar to the previous objectives. 
+\item Perform a rollout for one of the games to check how doubling cube is being handled by each player.
+\item Include another player that has different or more strategies and test it against the best player from the previous objectives. This player will follow the same training strategy as the previous players.
+\end{enumerate}
+
+\end{itemize}
